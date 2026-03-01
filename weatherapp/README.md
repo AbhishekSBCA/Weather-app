@@ -1,4 +1,4 @@
-# Weather App
+
 
 A simple weather app that fetches weather data using the OpenWeatherMap API.
 
